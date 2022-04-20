@@ -1,0 +1,2 @@
+# NFT-Marketplace-DAO
+#   This market place is controlled by artists and other users, the voting power of the DAO could be based on the following -   1. items listed. 2. the number of items sold 3. duration of membership  And proposals to be voted on can be static (Implemented automatically and there are functions to readily implement them) like   1. Royalties percentage 2. sales fees 3. and budget.  Proposals can also be dynamic and these may take some time to implement and is done manually. The marketplace is a dummy as the main ephasise is on the DAO mechanism.
